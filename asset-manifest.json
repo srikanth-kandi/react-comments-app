@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-comments-app/static/css/main.7193435c.css",
+    "main.js": "/react-comments-app/static/js/main.b7223981.js",
+    "index.html": "/react-comments-app/index.html",
+    "main.7193435c.css.map": "/react-comments-app/static/css/main.7193435c.css.map",
+    "main.b7223981.js.map": "/react-comments-app/static/js/main.b7223981.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7193435c.css",
+    "static/js/main.b7223981.js"
+  ]
+}
